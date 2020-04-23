@@ -67,7 +67,7 @@ boolean wdtMode = false;
 int buttonPin[5] = { MOUSE_LEFT_PIN, MOUSE_RIGHT_PIN, MOUSE_MIDDLE_PIN, MOUSE_BACK_PIN, MOUSE_FORWARD_PIN };
 bool buttonState[5] = { false, false, false, false, false };
 uint8_t buttonBuffer[5] = { 0xFF, 0xFF, 0xFF, 0xFF, 0xFF };
-char buttonKey[5] = { MOUSE_LEFT, MOUSE_RIGHT, MOUSE_MIDDLE, MOUSE_BACK, MOUSE_FORWARD };
+uint8_t buttonKey[5] = { MOUSE_LEFT, KEYBOARD_BACKSPACE, MOUSE_MIDDLE, MOUSE_RIGHT, KEYBOARD_RETURN };
 
 bool initComplete = false;
 
