@@ -7,7 +7,7 @@ This repository contains all of the design and production files necessary to mak
 What are you waiting for? Your new life awaits.
 
 
-This fork modifies the actions associated with the buttons, which I don't find particularly useful at their defaults:
+### This fork modifies the actions associated with the buttons, which I don't find particularly useful at their defaults:
 
 button 1 (mouse left) -> *unchanged*
 
