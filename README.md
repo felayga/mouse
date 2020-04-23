@@ -8,10 +8,15 @@ What are you waiting for? Your new life awaits.
 
 
 This fork modifies the actions associated with the buttons, which I don't find particularly useful at their defaults:
+
 button 1 (mouse left) -> *unchanged*
+
 button 2 (mouse right) -> keyboard backspace
+
 button 3 (mouse middle) -> *unchanged*
+
 button 4 (mouse back) -> mouse right
+
 button 5 (mouse forward) -> keyboard return
 
 
